@@ -1,0 +1,5 @@
+1. What is a list in Python?
+2. How do you create an empty list in Python?
+3. How can you access elements in a list by their index?
+4. What is list slicing in Python?
+5.Can a list in Python contain elements of different data types?

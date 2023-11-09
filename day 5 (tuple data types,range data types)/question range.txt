@@ -1,0 +1,13 @@
+What is the purpose of the range data type in Python?
+How do you create a range object with values from 1 to 5?
+Create a range object for values from 0 to 10 with a step of 2.
+What's the length of the range created with range(2, 11, 3)?
+How do you convert a range object to a list?
+Can you change the values of a range object after it's created?
+Calculate the sum of all numbers from 1 to 10 using a range object.
+Use a range to create a sequence of even numbers from 2 to 10.
+What is the last value in the range(1, 6)
+Can you use a negative step in a range object? If so, how?
+Create a range object that counts from 10 to 0 in reverse order.
+Use a range to generate a sequence of odd numbers from 1 to 9.
+How do you find the maximum value in a range object?
